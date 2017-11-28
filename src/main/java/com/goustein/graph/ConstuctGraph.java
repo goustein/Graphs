@@ -45,7 +45,6 @@ public class ConstuctGraph {
 			 g.addEdge(from, to,weight);
 		 }	 
 		}
-		System.out.println("gouse bsha");
 		return g;
 	}
 
